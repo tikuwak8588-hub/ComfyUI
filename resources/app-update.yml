@@ -1,0 +1,4 @@
+channel: latest
+provider: generic
+url: https://updater.comfy.org
+updaterCacheDirName: '@comfyorgcomfyui-electron-updater'
